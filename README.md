@@ -3,7 +3,7 @@
 My major is Software Engineer and aspiring Mobile Developer.
 
 <img align="bottom" width="500" src="img_mobile_dev.gif">
-Let's connect with [myportfolio](https://huyintech.netlify.app/)
+Let's connect with [[myportfolio](https://huyintech.netlify.app/)](https://huyintech.netlify.app/)
 
 <!--
 **hohoanghuy13/hohoanghuy13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
