@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🧑‍💻 Software Engineer
 -----------------------
 My major is Software Engineer and aspiring Mobile Developer.
-<img align="right" width="500" src="img_mobile_dev.gif">
+<img align="right" width="400" src="img_mobile_dev.gif">
 
 See my portfolio at [Huy in tech](http://huyintech.netlify.app/)   
 You can contact me at [hohoanghuy170@gmail.com](mailto:hohoanghuy170@gmail.com)
