@@ -2,7 +2,7 @@
 ## My name Hồ Hoàng Huy
 I'm interested in Mobile App. I'll to be mobile developer.
 
-<img align="top" width="400" src="img_mobile_dev.gif">
+<img align="right" width="400" src="img_mobile_dev.gif">
 Let's connect with [my portfolio](https://huyintech.netlify.app/)
 
 <!--
