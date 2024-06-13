@@ -1,9 +1,9 @@
 ## Hi there 👋
 ## My name Hồ Hoàng Huy
-I'm interested in Mobile App. I'll to be mobile developer.
+My major is Software Engineer and aspiring Mobile Developer.
 
-<img align="bottom" width="400" src="img_mobile_dev.gif">
-Let's connect with [my portfolio](https://huyintech.netlify.app/)
+<img align="bottom" width="500" src="img_mobile_dev.gif">
+Let's connect with [huyintech.netlify.app](https://huyintech.netlify.app/)
 
 <!--
 **hohoanghuy13/hohoanghuy13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
